@@ -8,5 +8,5 @@ function showAlert(message, success = true) {
   document.querySelector('.alert-container').innerHTML += alertTemplate;
   const alertElement = document.querySelector('.alert');
   const bsAlert = new bootstrap.Alert(alertElement);
-  setTimeout( () => bsAlert.close(), 2000);
+  setTimeout( () => bsAlert.close(), 1000);
 }

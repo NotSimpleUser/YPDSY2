@@ -30,13 +30,6 @@
         "description": "Viking sticker",
         "price": 34.99,
         "count": 5
-    },
-    {
-        "id": "5",
-        "title": "Cybertruck",
-        "image": "cybertruck.jfif",
-        "description": "Cybertruck sticker",
-        "price": 34.99,
-        "count": 3
     }
+
 ]
