@@ -32,14 +32,8 @@
 }
 
 body{
-    background-color: rgb(66, 66, 66);
+    background-color: peachpuff;
 }
 
-p, h1, h2{
-    color: honeydew;
-}
 
-.btn{
-    color: honeydew;
-}
 
