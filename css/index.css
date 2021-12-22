@@ -30,3 +30,16 @@
 .btn {
     padding: 0.75rem 0.7rem;
 }
+
+body{
+    background-color: rgb(66, 66, 66);
+}
+
+p, h1, h2{
+    color: honeydew;
+}
+
+.btn{
+    color: honeydew;
+}
+

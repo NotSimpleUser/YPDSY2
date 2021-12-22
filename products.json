@@ -33,10 +33,43 @@
     },
     {
         "id": "5",
-        "title": "Cybertruck",
-        "image": "cybertruck.jfif",
-        "description": "Cybertruck sticker",
-        "price": 34.99,
-        "count": 3
+        "title": "Pumkin",
+        "image": "pumpkin.png",
+        "description": "Helloween pumpkin stiker",
+        "price": 39.99,
+        "count": 12
+    },
+
+    {
+        "id": "6",
+        "title": "Rick and Morty",
+        "image": "rick_and_morty.svg",
+        "description": " Rick and Morty sticker",
+        "price": 29.99,
+        "count": 12
+    },
+    {
+        "id": "7",
+        "title": "Covid Mask",
+        "image": "mask.jpg",
+        "description": "Covid Mask sticker",
+        "price": 59.99,
+        "count": 12
+    },
+    {
+        "id": "8",
+        "title": "Fanny Bat",
+        "image": "bat.svg",
+        "description": "Fanny Bat sticker",
+        "price": 59.99,
+        "count": 12
+    },
+    {
+        "id": "9",
+        "title": "Heart",
+        "image": "heart.png",
+        "description": "Heart sticker",
+        "price": 59.99,
+        "count": 12
     }
 ]
